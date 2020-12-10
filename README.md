@@ -3,7 +3,7 @@
 
 Skills: VUE JS / JS / HTML / CSS / PHP / Evolution CMS
 
-- 🔭 I’m currently working on Nigt Range Picker 
+- 🔭 I’m currently working on Night Range Picker 
 - 🌱 I’m currently learning Functional programming 
 
 
