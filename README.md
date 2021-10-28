@@ -3,8 +3,8 @@
 
 Skills: VUE JS / JS / HTML / CSS / PHP / Evolution CMS
 
-[comment]: <> #- 🔭 I’m currently working on Night Range Picker 
-[comment]: <> #- 🌱 I’m currently learning Functional programming 
+[//]: # (- 🔭 I’m currently working on Night Range Picker )
+[//]: # (- 🌱 I’m currently learning Functional programming)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreyMyagkov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@AndreyMyagkov)  
