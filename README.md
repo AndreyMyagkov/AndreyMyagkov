@@ -1,4 +1,3 @@
-<!-- Header with animated typing effect alternative -->
 <div align="center">
   
 # 👋 Привет, я Андрей
@@ -29,7 +28,7 @@
 
 | 📁 Портфолио | 📜 Сертификаты |
 |-------------|---------------|
-| [![Portfolio](https://img.shields.io/badge/📂_Посмотреть_работы-3498db?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/portfolio) | [![Certificates](https://img.shields.io/badge/🎓_Мои_сертификаты-2ecc71?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/sertificates) |
+| [![Portfolio](https://img.shields.io/badge/📂_Посмотреть_работы-3498db?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/portfolio) | [![Certificates](https://img.shields.io/badge/🎓_Мои_сертификаты-2ecc71?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/certificates) |
 
 </div>
 
