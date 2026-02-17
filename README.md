@@ -1,4 +1,3 @@
-<!-- Header with animated typing effect alternative -->
 <div align="center">
   
 # 👋 Привет, я Андрей
