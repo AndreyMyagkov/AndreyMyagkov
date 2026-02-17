@@ -28,7 +28,7 @@
 
 | 📁 Портфолио | 📜 Сертификаты |
 |-------------|---------------|
-| [![Portfolio](https://img.shields.io/badge/📂_Посмотреть_работы-3498db?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/portfolio) | [![Certificates](https://img.shields.io/badge/🎓_Мои_сертификаты-2ecc71?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/certificates) |
+| [![Portfolio](https://img.shields.io/badge/📂_Посмотреть_работы-3498db?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/blob/main/portfolio/README.MD) | [![Certificates](https://img.shields.io/badge/🎓_Мои_сертификаты-2ecc71?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/blob/main/certificates/README.MD) |
 
 </div>
 
