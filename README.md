@@ -1,16 +1,53 @@
-### Hi there 👋, My name is Andrey
-#### I am Front-end developer
+<!-- Header with animated typing effect alternative -->
+<div align="center">
+  
+# 👋 Привет, я Андрей
+## Front-end разработчик
 
-Skills: VUE JS / JS / HTML / CSS / PHP / Evolution CMS
+</div>
 
-[//]: # (- 🔭 I’m currently working on Night Range Picker )
-[//]: # (- 🌱 I’m currently learning Functional programming)
+### Ключевой опыт
+- Более 10 лет в коммерческой разработке
+- Разрабатываю сайты и сервисы со сложной архитектурой
+- Опыт разработки: личные кабинеты, виджеты, поисковики, многошаговые визарды, ERP, PMS системы, конструкторы туров, недвижимости, интеграции с API
+
+### Стек
+ Vue 2/3 • Nuxt • JS • TypeScript • БЭМ • TailwindCSS • PHP • Evolution CMS  • Laravel • PostMan • Git • Docker • REST API
+
+### Вне кода
+> ✈️ Путешествия • 🌲 Природа • 🎣 Рыбалка 
+
+### Ищу в работе
+- **Интересные головоломки**: задачи, где нужно включить мозг и найти неочевидное решение
+- **Ламповый коллектив**: где ценят взаимопомощь, адекватную коммуникацию и здоровый юмор
+- **Work-life balance**: уважаю своё и чужое время - продуктивность важнее переработок
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreyMyagkov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@AndreyMyagkov)  
+## Проекты и портфолио
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyMyagkov)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyMyagkov&show_icons=true)  
+| 📁 Портфолио | 📜 Сертификаты |
+|-------------|---------------|
+| [![Portfolio](https://img.shields.io/badge/📂_Посмотреть_работы-3498db?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/portfolio) | [![Certificates](https://img.shields.io/badge/🎓_Мои_сертификаты-2ecc71?style=for-the-badge)](https://github.com/AndreyMyagkov/AndreyMyagkov/tree/main/public/sertificates) |
 
-![Profile views](https://gpvc.arturio.dev/AndreyMyagkov)  
+</div>
+
+
+
+<div align="center">
+
+### 🤝 Давайте работать вместе!
+
+Если у вас есть интересный проект, дружная команда и адекватные дедлайны -  
+я открыт к диалогу! 
+
+[📩 Написать в Telegram](https://t.me/AndreyMyagkov)
+
+</div>
+
+
+
+<div align="center">
+Спасибо, что заглянули!
+</div>
