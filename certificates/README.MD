@@ -44,9 +44,15 @@
 
 ---
 
+## 🎓 2018 | Geekbrains.ru
+[![JavaScript. Начальный уровень](https://img.shields.io/badge/📄_JavaScript-F7DF1E?style=for-the-badge)](gb-2018-js_beginer.jpg) https://gb.ru/certificates/516651.ru
+[![Веб-дизайн. Начальный уровень](https://img.shields.io/badge/📄_HTML-E34F26?style=for-the-badge)](gb-2018-webdiz-beginer.jpg) https://gb.ru/certificates/517043
+
+---
+
 <div align="center">
 
-### 📊 Итого: **7 сертификатов** | 📅 2020 — 2026
+### 📊 Итого: **9 сертификатов** | 📅 2018 — 2026
 
 > ✅ Все сертификаты подтверждены и действительны  
 > 📧 При необходимости могу предоставить оригиналы
