@@ -45,9 +45,12 @@
 ---
 
 ## 🎓 2018 | Geekbrains.ru
+<div align="center">
+
 [![JavaScript. Начальный уровень](https://img.shields.io/badge/📄_JavaScript-F7DF1E?style=for-the-badge)](gb-2018-js_beginer.jpg) https://gb.ru/certificates/516651.ru
 [![Веб-дизайн. Начальный уровень](https://img.shields.io/badge/📄_HTML-E34F26?style=for-the-badge)](gb-2018-webdiz-beginer.jpg) https://gb.ru/certificates/517043
 
+</div>
 ---
 
 <div align="center">
